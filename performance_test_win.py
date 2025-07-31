@@ -60,7 +60,8 @@ VIDEO_URLS = [
 ]
 
 # File chứa danh sách tài khoản
-ACCOUNTS_FILE = "Người dùng (res.users) (1).xlsx"
+user_number = input("Nhập số thứ tự file danh sách tài khoản (1, 2, 3, 4, 5...): ")
+ACCOUNTS_FILE = f"Người dùng (res.users) ({user_number}).xlsx"
 
 # =============================================================================
 
