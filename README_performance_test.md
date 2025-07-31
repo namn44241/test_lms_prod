@@ -30,7 +30,10 @@ venv\Scripts\activate
 pip install -r req.txt
 ```
 
-### Bước 3: 
+### Bước 3: Cài đặt chrome brower (với linux)
+```bash
+sudo apt install chromium-browser
+```
 
 ### Bước 3: Kiểm tra môi trường
 ```bash
