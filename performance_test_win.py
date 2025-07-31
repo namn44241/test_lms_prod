@@ -37,7 +37,7 @@ import signal
 # =============================================================================
 # CẤU HÌNH TEST - SỬA TẠI ĐÂY
 # =============================================================================
-concurrent_users = 3 
+concurrent_users = int(input("Nhập số lượng user: "))
 
 # Base URL của hệ thống
 BASE_URL = "http://192.168.30.176:8017"
