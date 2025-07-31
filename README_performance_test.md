@@ -30,6 +30,8 @@ venv\Scripts\activate
 pip install -r req.txt
 ```
 
+### Bước 3: 
+
 ### Bước 3: Kiểm tra môi trường
 ```bash
 python check_environment.py
